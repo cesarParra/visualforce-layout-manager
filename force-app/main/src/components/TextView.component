@@ -1,0 +1,8 @@
+<apex:component id="TextView">
+    <apex:attribute name="Text" type="String" required="true" description="The text that will be shown for this TextView." />
+    <apex:attribute name="ShouldRender" type="Boolean" required="true" description="If the text should render or not." />
+
+    <apex:outputPanel layout="none" rendered="{!ShouldRender}">
+        <span>{!Text}</span>
+    </apex:outputPanel>
+</apex:component>
