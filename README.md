@@ -18,9 +18,9 @@ Then, in your VF Page or component add the following:
 	    <apex:dynamicComponent invokeAfterAction="true" componentValue="{!View.Component}" />
 	</apex:outputPanel>
 
-### Building your layout
+## Building your layout
 
-#### Views
+### Views
 The View interface is the basis for the entire layout. Everything that gets presented in the page is a View.
 
 Creating a layout is all based on two different views: HorizontalView and VerticalView. These two views are container views that do not have any layout, but just control the flow of the layout.
