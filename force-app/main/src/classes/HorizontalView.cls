@@ -3,6 +3,8 @@ public with sharing class HorizontalView extends ViewGroup {
 
     public HorizontalView() { }
 
+    // TODO: If the number of columns is not provided, let's
+    // automatically calculate them based on the children
     public HorizontalView(Integer numberOfColumns) {
         this.numberOfColumns = numberOfColumns;
     }

@@ -76,15 +76,15 @@
     [
         "C:\\Users\\cesar\\DevWorkspace\\layout-manager\\force-app\\main\\src\\classes",
         {
+            "state": "u",
             "sourcePath": "C:\\Users\\cesar\\DevWorkspace\\layout-manager\\force-app\\main\\src\\classes",
             "isDirectory": true,
-            "size": 0,
-            "modifiedTime": 1533250572125,
-            "changeTime": 1533250572125,
-            "contentHash": "14eadaa2a5c7d6efd9bcbcc626972b88d557783d",
             "isMetadataFile": false,
-            "state": "u",
-            "isWorkspace": false
+            "size": 0,
+            "modifiedTime": 1533482591533,
+            "changeTime": 1533482591533,
+            "isWorkspace": false,
+            "contentHash": "b6dff71cb7ab13df2faa8ae60a1209548cc57973"
         }
     ],
     [
@@ -166,13 +166,12 @@
             "sourcePath": "C:\\Users\\cesar\\DevWorkspace\\layout-manager",
             "isDirectory": true,
             "size": 0,
-            "modifiedTime": 1533248904060,
-            "changeTime": 1533248904060,
-            "contentHash": "961a1dc0d27c2db495fda2d39ac7307e1a95993a",
+            "modifiedTime": 1533255205747,
+            "changeTime": 1533255205747,
+            "contentHash": "a94e830a6a9d6acb7a5fe25898c266912bdc5129",
             "isMetadataFile": false,
             "state": "u",
-            "isWorkspace": true,
-            "isArtifactRoot": false
+            "isWorkspace": true
         }
     ],
     [
@@ -243,14 +242,14 @@
     [
         "C:\\Users\\cesar\\DevWorkspace\\layout-manager\\force-app\\main\\src\\classes\\CardView.cls",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\cesar\\DevWorkspace\\layout-manager\\force-app\\main\\src\\classes\\CardView.cls",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 2727,
-            "modifiedTime": 1533253494457,
+            "modifiedTime": 1533481439459,
             "changeTime": 1533253494457,
-            "contentHash": "458d8b152b009450747ad8a00f2591cfc809af96"
+            "contentHash": "458d8b152b009450747ad8a00f2591cfc809af96",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
@@ -271,10 +270,10 @@
         {
             "sourcePath": "C:\\Users\\cesar\\DevWorkspace\\layout-manager\\force-app\\main\\src\\classes\\HorizontalView.cls",
             "isDirectory": false,
-            "size": 1089,
-            "modifiedTime": 1533251427358,
-            "changeTime": 1533251427358,
-            "contentHash": "415f45cc120a1827567a4465f85b86ade002ee43",
+            "size": 1208,
+            "modifiedTime": 1533481597187,
+            "changeTime": 1533481597187,
+            "contentHash": "b4fcf1e6ebf8aaa481cbec85802ace700f586e99",
             "isMetadataFile": false,
             "state": "u"
         }
@@ -349,10 +348,10 @@
         {
             "sourcePath": "C:\\Users\\cesar\\DevWorkspace\\layout-manager\\force-app\\main\\src\\classes\\TextView.cls",
             "isDirectory": false,
-            "size": 565,
-            "modifiedTime": 1533252532279,
-            "changeTime": 1533252532279,
-            "contentHash": "5f265b2fe5758287db360b2d33d66d01155b3c90",
+            "size": 494,
+            "modifiedTime": 1533482122431,
+            "changeTime": 1533482122431,
+            "contentHash": "81601ef1aed6afde87ebc1a78103ded7ba0d34f9",
             "isMetadataFile": false,
             "state": "u"
         }
@@ -446,6 +445,136 @@
             "contentHash": "3c2d28e502342ad57ea8cee8a778daecc4de239d",
             "isMetadataFile": true,
             "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\cesar\\DevWorkspace\\layout-manager\\force-app\\main\\src\\classes\\HorizontalViewTest.cls",
+        {
+            "sourcePath": "C:\\Users\\cesar\\DevWorkspace\\layout-manager\\force-app\\main\\src\\classes\\HorizontalViewTest.cls",
+            "isDirectory": false,
+            "size": 1030,
+            "modifiedTime": 1533481945384,
+            "changeTime": 1533481945384,
+            "contentHash": "764a77945db166f5c82f6748cbe7a69e87545fc0",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\cesar\\DevWorkspace\\layout-manager\\force-app\\main\\src\\classes\\HorizontalViewTest.cls-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\cesar\\DevWorkspace\\layout-manager\\force-app\\main\\src\\classes\\HorizontalViewTest.cls-meta.xml",
+            "isDirectory": false,
+            "size": 196,
+            "modifiedTime": 1533479663683,
+            "changeTime": 1533479663683,
+            "contentHash": "28036ed10ebf44c281f0fe30a50df9b0e92dcc1b",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\cesar\\DevWorkspace\\layout-manager\\force-app\\main\\src\\classes\\CardViewTest.cls",
+        {
+            "sourcePath": "C:\\Users\\cesar\\DevWorkspace\\layout-manager\\force-app\\main\\src\\classes\\CardViewTest.cls",
+            "isDirectory": false,
+            "size": 1203,
+            "modifiedTime": 1533481229013,
+            "changeTime": 1533481229013,
+            "contentHash": "4102e27932186eaef246b5ab9ead81470d25f910",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\cesar\\DevWorkspace\\layout-manager\\force-app\\main\\src\\classes\\CardViewTest.cls-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\cesar\\DevWorkspace\\layout-manager\\force-app\\main\\src\\classes\\CardViewTest.cls-meta.xml",
+            "isDirectory": false,
+            "size": 190,
+            "modifiedTime": 1533480938549,
+            "changeTime": 1533480938549,
+            "contentHash": "f34e522ddd52db70d2d6bd6ef5a793a2c35d4ad5",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\cesar\\DevWorkspace\\layout-manager\\force-app\\main\\src\\classes\\SeparatorViewTest.cls",
+        {
+            "sourcePath": "C:\\Users\\cesar\\DevWorkspace\\layout-manager\\force-app\\main\\src\\classes\\SeparatorViewTest.cls",
+            "isDirectory": false,
+            "size": 383,
+            "modifiedTime": 1533482091324,
+            "changeTime": 1533482091324,
+            "contentHash": "7607abdb4b382c356f87b2bb7d37664f2f2dd4d2",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\cesar\\DevWorkspace\\layout-manager\\force-app\\main\\src\\classes\\SeparatorViewTest.cls-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\cesar\\DevWorkspace\\layout-manager\\force-app\\main\\src\\classes\\SeparatorViewTest.cls-meta.xml",
+            "isDirectory": false,
+            "size": 195,
+            "modifiedTime": 1533482003258,
+            "changeTime": 1533482003258,
+            "contentHash": "c87f717d7ce78ce51fc5a076d569e9ac8fa0f4d1",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\cesar\\DevWorkspace\\layout-manager\\force-app\\main\\src\\classes\\TextViewTest.cls",
+        {
+            "sourcePath": "C:\\Users\\cesar\\DevWorkspace\\layout-manager\\force-app\\main\\src\\classes\\TextViewTest.cls",
+            "isDirectory": false,
+            "size": 949,
+            "modifiedTime": 1533482367300,
+            "changeTime": 1533482367300,
+            "contentHash": "658031aa80237fdfe5aa4711c863a4f3fd502c9c",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\cesar\\DevWorkspace\\layout-manager\\force-app\\main\\src\\classes\\TextViewTest.cls-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\cesar\\DevWorkspace\\layout-manager\\force-app\\main\\src\\classes\\TextViewTest.cls-meta.xml",
+            "isDirectory": false,
+            "size": 190,
+            "modifiedTime": 1533482195218,
+            "changeTime": 1533482195218,
+            "contentHash": "a33fbca083e31b64faf5b4419b2fbd8ff2edb3f7",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\cesar\\DevWorkspace\\layout-manager\\force-app\\main\\src\\classes\\VerticalViewTest.cls",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\cesar\\DevWorkspace\\layout-manager\\force-app\\main\\src\\classes\\VerticalViewTest.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 868,
+            "modifiedTime": 1533482676096,
+            "changeTime": 1533482676096,
+            "contentHash": "0f18577275e52220d54e2c561730fd0b5ac04a3a"
+        }
+    ],
+    [
+        "C:\\Users\\cesar\\DevWorkspace\\layout-manager\\force-app\\main\\src\\classes\\VerticalViewTest.cls-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\cesar\\DevWorkspace\\layout-manager\\force-app\\main\\src\\classes\\VerticalViewTest.cls-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 194,
+            "modifiedTime": 1533482591537,
+            "changeTime": 1533482591537,
+            "contentHash": "e36c639b553b376055d120be3ca1165a6d2cd4bd"
         }
     ]
 ]

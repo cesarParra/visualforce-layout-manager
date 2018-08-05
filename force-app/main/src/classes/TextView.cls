@@ -17,7 +17,6 @@ public with sharing class TextView implements RenderableView {
     }
 
     public String getText() {
-        // Ideally this would be coming from a CMT for this component.
         return this.textToPresent;
     }
 }
